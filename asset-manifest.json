@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Creative-3D-Flip-Cards-Hover-Effect-React-App/static/css/main.e5321f61.chunk.css",
+    "main.js": "/Creative-3D-Flip-Cards-Hover-Effect-React-App/static/js/main.203277a8.chunk.js",
+    "main.js.map": "/Creative-3D-Flip-Cards-Hover-Effect-React-App/static/js/main.203277a8.chunk.js.map",
+    "runtime-main.js": "/Creative-3D-Flip-Cards-Hover-Effect-React-App/static/js/runtime-main.7a33247d.js",
+    "runtime-main.js.map": "/Creative-3D-Flip-Cards-Hover-Effect-React-App/static/js/runtime-main.7a33247d.js.map",
+    "static/css/2.5a9a206f.chunk.css": "/Creative-3D-Flip-Cards-Hover-Effect-React-App/static/css/2.5a9a206f.chunk.css",
+    "static/js/2.7e06e353.chunk.js": "/Creative-3D-Flip-Cards-Hover-Effect-React-App/static/js/2.7e06e353.chunk.js",
+    "static/js/2.7e06e353.chunk.js.map": "/Creative-3D-Flip-Cards-Hover-Effect-React-App/static/js/2.7e06e353.chunk.js.map",
+    "index.html": "/Creative-3D-Flip-Cards-Hover-Effect-React-App/index.html",
+    "precache-manifest.41ed33d46069494c8437b8d0527c1d6b.js": "/Creative-3D-Flip-Cards-Hover-Effect-React-App/precache-manifest.41ed33d46069494c8437b8d0527c1d6b.js",
+    "service-worker.js": "/Creative-3D-Flip-Cards-Hover-Effect-React-App/service-worker.js",
+    "static/css/2.5a9a206f.chunk.css.map": "/Creative-3D-Flip-Cards-Hover-Effect-React-App/static/css/2.5a9a206f.chunk.css.map",
+    "static/css/main.e5321f61.chunk.css.map": "/Creative-3D-Flip-Cards-Hover-Effect-React-App/static/css/main.e5321f61.chunk.css.map",
+    "static/js/2.7e06e353.chunk.js.LICENSE.txt": "/Creative-3D-Flip-Cards-Hover-Effect-React-App/static/js/2.7e06e353.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a33247d.js",
+    "static/css/2.5a9a206f.chunk.css",
+    "static/js/2.7e06e353.chunk.js",
+    "static/css/main.e5321f61.chunk.css",
+    "static/js/main.203277a8.chunk.js"
+  ]
+}
